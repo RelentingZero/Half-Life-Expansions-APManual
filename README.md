@@ -10,9 +10,9 @@ Major Weapon Pickups
 Beat Pit Worm and Gene Worm
 
 # Blue Shift Checks are:
--Important Scripted Scenes
--Health Stations and Armor Pickups
--Major Weapon Pickups
+Important Scripted Scenes
+Health Stations and Armor Pickups
+Major Weapon Pickups
 
 # Blue Shift Goal:
 Escape Black Mesa
