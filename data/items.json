@@ -1,0 +1,303 @@
+[
+  {
+    "count": 1,
+    "name": "Boot Camp",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Osprey Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Welcome To Black Mesa",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"We Are Pulling Out\"",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Missing In Action",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Friendly Fire",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "We Are Not Alone",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crush Depth",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vicarious Reality",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pit Worm's Nest",
+    "category": [
+      "Chapter",
+      "Victory"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Foxtrot Uniform",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"The Package\"",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Worlds Collide",
+    "category": [
+      "Chapter",
+      "Victory"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crowbar",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wrench",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Knife",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Barnacle",
+    "category": [
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pistol",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Revolver",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deagle ",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MP5",
+    "category": [
+      "Mid Game Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shotgun",
+    "category": [
+      "Mid Game Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crossbow",
+    "category": [
+      "Mid Game Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocket Launcher",
+    "category": [
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gauss Cannon ",
+    "category": [
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gluon Gun",
+    "category": [
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hivehand ",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grenades",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Satchell Charges",
+    "category": [
+      "Mid Game Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tripmine ",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snarks ",
+    "category": [
+      "Early Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "LMG",
+    "category": [
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Displacer Cannon",
+    "category": [
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sniper Rifle",
+    "category": [
+      "Late Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spore Launcher",
+    "category": [
+      "Mid Game Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shockroach",
+    "category": [
+      "Mid Game Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Goal",
+    "category": [
+      "Victory"
+    ],
+    "progression": true
+  }
+]

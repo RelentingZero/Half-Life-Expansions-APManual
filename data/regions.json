@@ -1,0 +1,84 @@
+{
+  "Boot Camp": {
+    "starting": true,
+    "connects_to": [
+      "Missing In Action",
+      "Friendly Fire",
+      "We Are Not Alone",
+      "Crush Depth",
+      "Vicarious Reality",
+      "Pit Worm's Nest",
+      "Foxtrot Uniform",
+      "\"The Package\"",
+      "Worlds Collide"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  "Welcome To Black Mesa": {
+    "connects_to": [
+      "Missing In Action",
+      "Friendly Fire",
+      "We Are Not Alone",
+      "Crush Depth",
+      "Vicarious Reality",
+      "Pit Worm's Nest",
+      "Foxtrot Uniform",
+      "\"The Package\"",
+      "Worlds Collide"
+    ],
+    "requires": "|Welcome To Black Mesa|",
+    "starting": true
+  },
+  "\"We Are Pulling Out\"": {
+    "connects_to": [
+      "Missing In Action",
+      "Friendly Fire",
+      "We Are Not Alone",
+      "Crush Depth",
+      "Vicarious Reality",
+      "Pit Worm's Nest",
+      "Foxtrot Uniform",
+      "\"The Package\"",
+      "Worlds Collide"
+    ],
+    "requires": "|\"We Are Pulling Out\"|",
+    "starting": true
+  },
+  "Missing In Action": {
+    "connects_to": [],
+    "requires": "|Missing In Action| AND |@Early Weapon:2|"
+  },
+  "Friendly Fire": {
+    "connects_to": [],
+    "requires": "|Friendly Fire| AND (|@Early Weapon:3| OR |@Mid Game Weapon:1|)"
+  },
+  "We Are Not Alone": {
+    "connects_to": [],
+    "requires": "|We Are Not Alone| AND (|@Early Weapon:2| OR |@Mid Game Weapon:1|)",
+    "starting": false
+  },
+  "Crush Depth": {
+    "connects_to": [],
+    "requires": "|Crush Depth| AND (|@Early Weapon:3| OR |@Mid Game Weapon:2|)"
+  },
+  "Vicarious Reality": {
+    "connects_to": [],
+    "requires": "|Vicarious Reality| AND (|@Early Weapon:3| AND |@Mid Game Weapon:2|) OR (|@Late Weapon:1|)"
+  },
+  "Pit Worm's Nest": {
+    "connects_to": [],
+    "requires": "|Pit Worm's Nest| AND (|@Early Weapon:5| AND |@Mid Game Weapon:4| AND |@Late Weapon:3|)"
+  },
+  "Foxtrot Uniform": {
+    "connects_to": [],
+    "requires": "|Foxtrot Uniform| AND (|@Early Weapon:3| AND |@Mid Game Weapon:3| AND |@Late Weapon:3|)"
+  },
+  "\"The Package\"": {
+    "connects_to": [],
+    "requires": "|\"The Package\"| AND (|@Early Weapon:3| AND |@Mid Game Weapon:4| AND |@Late Weapon:3|)"
+  },
+  "Worlds Collide": {
+    "connects_to": [],
+    "requires": "|Worlds Collide| AND (|@Early Weapon:5| AND |@Mid Game Weapon:4| AND |@Late Weapon:4|)"
+  }
+}

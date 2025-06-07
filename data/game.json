@@ -1,0 +1,20 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "HalfLifeOpposingForce",
+  "creator": "RelentingZero",
+  "filler_item_name": "Coffee Cup",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Early Weapon"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "Starting Level"
+      ],
+      "random": 1
+    }
+  ]
+}

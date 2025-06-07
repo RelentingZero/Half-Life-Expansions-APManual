@@ -1,0 +1,690 @@
+[
+  {
+    "region": "Boot Camp",
+    "name": "(BC) P.C.V. Pickup",
+    "category": [
+      "Boot Camp"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  {
+    "name": "(BC) P.C.V. Station Near P.C.V.",
+    "region": "Boot Camp",
+    "category": [
+      "Boot Camp"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  {
+    "name": "(BC) H.E.V. Station Near P.C.V.",
+    "region": "Boot Camp",
+    "category": [
+      "Boot Camp"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  {
+    "name": "(BC) Ohms Station Near P.C.V.",
+    "region": "Boot Camp",
+    "category": [
+      "Boot Camp"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  {
+    "name": "(BC) Deagle Pickup",
+    "region": "Boot Camp",
+    "category": [
+      "Boot Camp"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  {
+    "name": "(BC) Sniper Rifle Pickup",
+    "region": "Boot Camp",
+    "category": [
+      "Boot Camp"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  {
+    "name": "(BC) Completed Training",
+    "region": "Boot Camp",
+    "category": [
+      "Boot Camp"
+    ],
+    "requires": "|Boot Camp|"
+  },
+  {
+    "name": "(WBM) Starting Room Health Station",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) P.C.V. Pickup",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Wrench Pickup",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Destroyed Security Scanner",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Knife Pickup",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Deagle Pickup",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Power Turned Off",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Shotgun Pickup",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Survived Exploding Room",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Health Station Near Dead Guard",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WBM) Grenade Pickup",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa|"
+  },
+  {
+    "name": "(WGM) Boarded Tram",
+    "region": "Welcome To Black Mesa",
+    "category": [
+      "Welcome To Black Mesa"
+    ],
+    "requires": "|Welcome To Black Mesa| AND |Grenades|"
+  },
+  {
+    "name": "(WPO) Pistol Pickup",
+    "region": "\"We Are Pulling Out\"",
+    "category": [
+      "\"We Are Pulling Out\""
+    ],
+    "requires": "|\"We Are Pulling Out\"|"
+  },
+  {
+    "name": "(WPO) Locked Closet SMG Grenades",
+    "region": "\"We Are Pulling Out\"",
+    "category": [
+      "\"We Are Pulling Out\""
+    ],
+    "requires": "|\"We Are Pulling Out\"|"
+  },
+  {
+    "name": "(WPO) MP5 Pickup",
+    "region": "\"We Are Pulling Out\"",
+    "category": [
+      "\"We Are Pulling Out\""
+    ],
+    "requires": "|\"We Are Pulling Out\"|"
+  },
+  {
+    "name": "(WPO) H.E.V. Station Near Dead Marines",
+    "region": "\"We Are Pulling Out\"",
+    "category": [
+      "\"We Are Pulling Out\""
+    ],
+    "requires": "|\"We Are Pulling Out\"|"
+  },
+  {
+    "name": "(WPO) Air Base Health Station",
+    "region": "\"We Are Pulling Out\"",
+    "category": [
+      "\"We Are Pulling Out\""
+    ],
+    "requires": "|\"We Are Pulling Out\"|"
+  },
+  {
+    "name": "(WPO) Air Base Satchell Charge",
+    "region": "\"We Are Pulling Out\"",
+    "category": [
+      "\"We Are Pulling Out\""
+    ],
+    "requires": "|\"We Are Pulling Out\"|"
+  },
+  {
+    "name": "(WPO) Get Left Behind",
+    "region": "\"We Are Pulling Out\"",
+    "category": [
+      "\"We Are Pulling Out\""
+    ],
+    "requires": "|\"We Are Pulling Out\"|"
+  },
+  {
+    "name": "(MIA) Wet Room Shotgun Pickup",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(MIA) Flooded Office Health Station",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(MIA) Fire Room Grenades",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(MIA) Fire Room MP5",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(MIA) SMG Grenades Near Dead Soldier",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(MIA) Rocket Launcher In FRAGILE Crate",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(MIA) Elevator Power Turned Off",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(MIA) Linked Up With Squad",
+    "region": "Missing In Action",
+    "category": [
+      "Missing In Action"
+    ],
+    "requires": "|Missing In Action|"
+  },
+  {
+    "name": "(FF) Security Room Tripmine + Shotgun",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(FF) Eletricity Room SMG Grenades",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(FF) Electricity Room Shotgun ",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(FF) Satchell Charges Near Turret",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(FF) LMG Pickup From Dead Soldier",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(FF) P.C.V. Station",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(FF) Raised Gate",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(FF) Rocket Launcher Pickup",
+    "region": "Friendly Fire",
+    "category": [
+      "Friendly Fire"
+    ],
+    "requires": "|Friendly Fire|"
+  },
+  {
+    "name": "(WNA) Followed Gordon Freeman ",
+    "region": "We Are Not Alone",
+    "category": [
+      "We Are Not Alone"
+    ],
+    "requires": "|We Are Not Alone|"
+  },
+  {
+    "name": "(WNA) Displacer Cannon Pickup",
+    "region": "We Are Not Alone",
+    "category": [
+      "We Are Not Alone"
+    ],
+    "requires": "|We Are Not Alone|"
+  },
+  {
+    "name": "(WNA) Training Course Shotgun",
+    "region": "We Are Not Alone",
+    "category": [
+      "We Are Not Alone"
+    ],
+    "requires": "|We Are Not Alone| AND |Displacer Cannon|"
+  },
+  {
+    "name": "(WNA) Training Couse Health Station",
+    "region": "We Are Not Alone",
+    "category": [
+      "We Are Not Alone"
+    ],
+    "requires": "|We Are Not Alone| AND |Displacer Cannon|"
+  },
+  {
+    "name": "(WNA) Entered Portal",
+    "region": "We Are Not Alone",
+    "category": [
+      "We Are Not Alone"
+    ],
+    "requires": "|We Are Not Alone|"
+  },
+  {
+    "name": "(CD) Teleporter Room Health Station",
+    "region": "Crush Depth",
+    "category": [
+      "Crush Depth"
+    ],
+    "requires": "|Crush Depth|"
+  },
+  {
+    "name": "(CD) Teleporter Room H.E.V. Station",
+    "region": "Crush Depth",
+    "category": [
+      "Crush Depth"
+    ],
+    "requires": "|Crush Depth|"
+  },
+  {
+    "name": "(CD) H.E.V. Station Near Broken Health Station",
+    "region": "Crush Depth",
+    "category": [
+      "Crush Depth"
+    ],
+    "requires": "|Crush Depth|"
+  },
+  {
+    "name": "(CD) Shockroach \"Pickup\"",
+    "region": "Crush Depth",
+    "category": [
+      "Crush Depth"
+    ],
+    "requires": "|Crush Depth|"
+  },
+  {
+    "name": "(CD) Entered Biodome Drainage System",
+    "region": "Crush Depth",
+    "category": [
+      "Crush Depth"
+    ],
+    "requires": "|Crush Depth|"
+  },
+  {
+    "name": "(VR) Lab Snarks",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) Health Station Near Specimen Containment Room",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) Health Station Near Elevator",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) Biodome Healing Pool",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) Spore Launcher Pickup",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) Barnacle Pickup",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) Health Station Near Enemies",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) SMG Grenades Near Radio",
+    "region": "Vicarious Reality",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(VR) Entered The Pit Worm's Nest",
+    "region": "Pit Worm's Nest",
+    "category": [
+      "Vicarious Reality"
+    ],
+    "requires": "|Vicarious Reality|"
+  },
+  {
+    "name": "(PWN) Deagle Near Dead Otis",
+    "region": "Pit Worm's Nest",
+    "category": [
+      "Pit Worm's Nest"
+    ],
+    "requires": "|Pit Worm's Nest|"
+  },
+  {
+    "name": "(PWN) Gearbox Turned On",
+    "region": "Pit Worm's Nest",
+    "category": [
+      "Pit Worm's Nest"
+    ],
+    "requires": "|Pit Worm's Nest|"
+  },
+  {
+    "name": "(PWN) Started Steam Vent",
+    "region": "Pit Worm's Nest",
+    "category": [
+      "Pit Worm's Nest"
+    ],
+    "requires": "|Pit Worm's Nest|"
+  },
+  {
+    "name": "(PWN) Turned Pressure Valve",
+    "region": "Pit Worm's Nest",
+    "category": [
+      "Pit Worm's Nest"
+    ],
+    "requires": "|Pit Worm's Nest|"
+  },
+  {
+    "name": "(PWN) Killed Pit Worm",
+    "region": "Pit Worm's Nest",
+    "victory": true,
+    "category": [
+      "Pit Worm's Nest"
+    ],
+    "requires": "|Pit Worm's Nest|",
+    "place_item": [
+      "Progressive Goal"
+    ]
+  },
+  {
+    "name": "(FU) LMG Pickup",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Sniper Killed",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Displacer Cannon Xen Healing Pool",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform| AND |Displacer Cannon|"
+  },
+  {
+    "name": "(FU) Sniper Rifle Pickup",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Survived Voltigore Tunnel",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Closed Both Infinite Spawn Doors",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) LMG Near Soldiers",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Sniper Rifle Near Soldiers",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Dam Health Station",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Dam H.E.V. Station",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(FU) Blew Up Gargantua",
+    "region": "Foxtrot Uniform",
+    "category": [
+      "Foxtrot Uniform"
+    ],
+    "requires": "|Foxtrot Uniform|"
+  },
+  {
+    "name": "(TP) MP5 Near Gun Emplacement",
+    "region": "\"The Package\"",
+    "category": [
+      "\"The Package\""
+    ],
+    "requires": "|\"The Package\"|"
+  },
+  {
+    "name": "(TP) LMG Near Dead Soldier",
+    "region": "\"The Package\"",
+    "category": [
+      "\"The Package\""
+    ],
+    "requires": "|\"The Package\"|"
+  },
+  {
+    "name": "(TP) Rocket Launcher Pickup Near Power",
+    "region": "\"The Package\"",
+    "category": [
+      "\"The Package\""
+    ],
+    "requires": "|\"The Package\"|"
+  },
+  {
+    "name": "(TP) Turned Off Power",
+    "region": "\"The Package\"",
+    "category": [
+      "\"The Package\""
+    ],
+    "requires": "|\"The Package\"|"
+  },
+  {
+    "name": "(TP) \"Defused\" Nuke",
+    "region": "\"The Package\"",
+    "category": [
+      "\"The Package\""
+    ],
+    "requires": "|\"The Package\"|"
+  },
+  {
+    "name": "(WC) Final Health Station",
+    "region": "Worlds Collide",
+    "category": [
+      "Worlds Collide"
+    ],
+    "requires": "|Worlds Collide|"
+  },
+  {
+    "name": "(WC) Super Healing Pool Near Gene Worm",
+    "region": "Worlds Collide",
+    "category": [
+      "Worlds Collide"
+    ],
+    "requires": "|Worlds Collide|"
+  },
+  {
+    "name": "(WC) Killed Gene Worm",
+    "region": "Worlds Collide",
+    "victory": true,
+    "category": [
+      "Worlds Collide"
+    ],
+    "requires": "|Worlds Collide|",
+    "place_item": [
+      "Progressive Goal"
+    ]
+  }
+]
